@@ -1,7 +1,6 @@
 .bg-color{
     background-color: #feeae9;
     border-radius: 10px;
-    margin-top: 20px;
     height: 400px;
 }
 .carousel-item{
@@ -9,4 +8,26 @@
 }
 .img-se{
     height: 400px;
+}
+.cat{
+    background-color: orchid;
+}
+
+.cat2{
+    background-color: rgb(150, 150, 245);
+}
+.cat3{
+    background-color: orange;
+}
+
+#top-add{
+    padding-top: 30px;
+}
+.color h1{
+    color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+
 }
